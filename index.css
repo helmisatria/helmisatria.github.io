@@ -1,0 +1,23 @@
+.container{
+	/*margin-top: 100px*/
+	margin: 100px auto;
+	padding: 0 100px;
+}
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
+body{
+	font-family: Roboto
+}
+h1{
+	margin: 0;
+	font-size: 4.5em;
+}
+p{
+	font-size: 12pt;
+	line-height: 2em;
+}
+b{
+	font-size: 1.2em;
+}
