@@ -21,3 +21,10 @@ p{
 b{
 	font-size: 1.2em;
 }
+button{
+	box-shadow: 2px 2px;
+}
+.bigger-text{
+	font-size: 1.3em;
+	line-height: 2em;
+}
